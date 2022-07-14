@@ -1,1 +1,2 @@
-# Operating System Course Content By Dr.Muhammad Nauman
+# Operating System Course 
+  By Dr.Muhammad Nauman
